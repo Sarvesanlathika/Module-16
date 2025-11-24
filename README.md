@@ -17,7 +17,7 @@ Step 6: End the program.
 
 # PYTHON PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 from TreeAVL.AVL import AVL  #Write your code here
 
@@ -54,7 +54,7 @@ Step 6: End the program.
 
 # PYTHON PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 from TreeAVL.AVL import AVL
 
@@ -96,7 +96,7 @@ Step 7: Define print_tree() to recursively print the structure of the B-Tree.
 
 # PYTHON PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 # Searching a key on a B-tree in Python
 
@@ -208,7 +208,7 @@ Finding the appropriate node for insertion. Splitting full nodes. Linking leaf n
 
 # PYTHON PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 class Node(object):
 
@@ -370,7 +370,7 @@ Step 1: Start the program. Step 2: Define the TreeNode class to represent each n
 
 # PYTHON PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 class TreeNode(object):
 	def __init__(self, val):
