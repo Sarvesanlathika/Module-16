@@ -1,35 +1,36 @@
 # Ex. No: 16A - Constructing and Printing an AVL Tree in Python
+# AIM
+To write a Python program to construct an AVL tree and print the nodes of it using the appropriate packages and built-in function.
 
-## AIM:
-To write a Python program to construct an **AVL tree** and print the nodes of it using the appropriate packages and built-in function.
+# ALGORITHM
+Step 1: Start the program.
 
----
+Step 2: Define a function getDictTree(tree) to return the dict_tree of an AVL tree.
 
-## ALGORITHM:
+Step 3: Define a function Construct_AVL(L) to:
 
-**Step 1**: Start the program.
+Create an AVL tree from the list L. Get and print the dict_tree using getDictTree(tree). Step 4: Define a list L with integer values.
 
-**Step 2**: Define a function `getDictTree(tree)` to return the **dict_tree** of an AVL tree.
+Step 5: Call Construct_AVL(L) to build the tree and print the result.
 
-**Step 3**: Define a function `Construct_AVL(L)` to:
-- Create an **AVL tree** from the list `L`.
-- Get and print the **dict_tree** using `getDictTree(tree)`.
+Step 6: End the program.
 
-**Step 4**: Define a list `L` with integer values.
+# PYTHON PROGRAM
+~~~
+Reg - 212222060229 Name - Sarvesan lathika
 
-**Step 5**: Call `Construct_AVL(L)` to build the tree and print the result.
+from TreeAVL.AVL import AVL  #Write your code here
 
-**Step 6**: End the program.
+def getDictTree(self):
+ return self.dict_tree
 
----
+def Construct_AVL(L):
+    tree=AVL(L)
+    print(getDictTree(tree))
+L=[10,20,30,40,50,25]
+~~~
+# OUTPUT
+<img width="1281" height="205" alt="image" src="https://github.com/user-attachments/assets/b8640cb3-059b-4ee5-a7fe-cb0286131ff8" />
 
-## PYTHON PROGRAM
-```
-ENTER YOUR CODE HERE
-```
-
-## OUTPUT
-```
-```
-
-## RESULT
+# RESULT
+Thus the program to construct an AVL tree and print the nodes of it has been implemented and executed successfully.
